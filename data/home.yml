@@ -1,14 +1,14 @@
 en:
   title: Remix, a <span>theme for Hugo</span> fully editable with <span>Netlify
     CMS</span>
-  slogan: Nulla magna eiusmod ea eu irure exercitation non incididunt.
+  slogan: Ja ja yea pooki chooki ja ja yeah
   shortDescription: |
     
-    → Get your own copy of this website in minutes.
+    → Get your own copy of this website in minutes and never pay
     → Edit everything with no single line of code.
-    → It's free and open-source!
+    → It's free and open-source! Actually not
   image: /media/wave.jpg
-  copyright: "  © 2017-2022 - OhBonsaï &"
+  copyright: "  © 2022 - Tech Hive Group"
   register: Roneo.org
   registerUrl: https://roneo.org/en
 fr:
